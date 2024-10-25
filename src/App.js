@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import KakaoMap from './KakaoMap.js';
 
-function App() {
+function App() { 
   return (
     <BrowserRouter basename="/react">
       <Routes>
